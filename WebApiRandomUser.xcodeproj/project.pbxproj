@@ -15,6 +15,8 @@
 		6F2A3FFE254FC726001A3232 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6F2A3FFC254FC726001A3232 /* LaunchScreen.storyboard */; };
 		6F2A4009254FC726001A3232 /* WebApiRandomUserTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F2A4008254FC726001A3232 /* WebApiRandomUserTests.swift */; };
 		6F2A4014254FC726001A3232 /* WebApiRandomUserUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F2A4013254FC726001A3232 /* WebApiRandomUserUITests.swift */; };
+		6F2A4025254FCA33001A3232 /* WhiteNavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F2A4024254FCA33001A3232 /* WhiteNavigationController.swift */; };
+		6F2A402A254FDD7A001A3232 /* infoTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F2A4029254FDD7A001A3232 /* infoTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		6F2A400F254FC726001A3232 /* WebApiRandomUserUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WebApiRandomUserUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6F2A4013254FC726001A3232 /* WebApiRandomUserUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebApiRandomUserUITests.swift; sourceTree = "<group>"; };
 		6F2A4015254FC726001A3232 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6F2A4024254FCA33001A3232 /* WhiteNavigationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhiteNavigationController.swift; sourceTree = "<group>"; };
+		6F2A4029254FDD7A001A3232 /* infoTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = infoTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,7 +106,9 @@
 				6F2A3FF1254FC725001A3232 /* AppDelegate.swift */,
 				6F2A3FF3254FC725001A3232 /* SceneDelegate.swift */,
 				6F2A3FF5254FC725001A3232 /* ViewController.swift */,
+				6F2A4029254FDD7A001A3232 /* infoTableViewController.swift */,
 				6F2A3FF7254FC725001A3232 /* Main.storyboard */,
+				6F2A4024254FCA33001A3232 /* WhiteNavigationController.swift */,
 				6F2A3FFA254FC726001A3232 /* Assets.xcassets */,
 				6F2A3FFC254FC726001A3232 /* LaunchScreen.storyboard */,
 				6F2A3FFF254FC726001A3232 /* Info.plist */,
@@ -261,6 +267,8 @@
 				6F2A3FF6254FC725001A3232 /* ViewController.swift in Sources */,
 				6F2A3FF2254FC725001A3232 /* AppDelegate.swift in Sources */,
 				6F2A3FF4254FC725001A3232 /* SceneDelegate.swift in Sources */,
+				6F2A402A254FDD7A001A3232 /* infoTableViewController.swift in Sources */,
+				6F2A4025254FCA33001A3232 /* WhiteNavigationController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
